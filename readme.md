@@ -1,3 +1,5 @@
+<img width="1908" height="1022" alt="image" src="https://github.com/user-attachments/assets/896a754c-f45e-4dd4-82df-ab6c40c48dca" />
+
 ````md
 # Oracle Core
 
